@@ -1,0 +1,1289 @@
+[
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 1,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "17",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 2,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 3,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "13",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 4,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "11",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 5,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "10",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 6,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "15",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 7,
+        "fields": {
+            "date": "2022-07-20",
+            "quantity": "9",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 8,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "19",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 9,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 10,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "9",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 11,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 12,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "12",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 13,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "11",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 14,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "11",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 15,
+        "fields": {
+            "date": "2022-07-21",
+            "quantity": "8",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 16,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "26",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 17,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "12",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 18,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "10",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 19,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "7",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 20,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 21,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "7",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 22,
+        "fields": {
+            "date": "2022-07-22",
+            "quantity": "9",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 23,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "18",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 24,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "5",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 25,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "5",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 26,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "4",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 27,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "6",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 28,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "4",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 29,
+        "fields": {
+            "date": "2022-07-25",
+            "quantity": "7",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 30,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "15",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 31,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "13",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 32,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 33,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "15",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 34,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "7",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 35,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "12",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 36,
+        "fields": {
+            "date": "2022-07-28",
+            "quantity": "8",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 37,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "16",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 38,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 39,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 40,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 41,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "8",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 42,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 43,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "16",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 44,
+        "fields": {
+            "date": "2022-07-29",
+            "quantity": "11",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 45,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "17",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 46,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "5",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 47,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 48,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 49,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "16",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 50,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "7",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 51,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "12",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 52,
+        "fields": {
+            "date": "2022-08-01",
+            "quantity": "5",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 53,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "18",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 54,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 55,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 56,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 57,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "13",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 58,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 59,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "13",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 60,
+        "fields": {
+            "date": "2022-08-02",
+            "quantity": "8",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 61,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "10",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 62,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "9",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 63,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "10",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 64,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 65,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "10",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 66,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "11",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 67,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "15",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 68,
+        "fields": {
+            "date": "2022-08-03",
+            "quantity": "14",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 69,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "9",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 70,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "13",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 71,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "10",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 72,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 73,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "16",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 74,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 75,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "9",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 76,
+        "fields": {
+            "date": "2022-08-04",
+            "quantity": "9",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 77,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "15",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 78,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 79,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 80,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "14",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 81,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "15",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 82,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "11",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 83,
+        "fields": {
+            "date": "2022-08-05",
+            "quantity": "9",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 84,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "7",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 85,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "6",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 86,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 87,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "4",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 88,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "5",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 89,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "5",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 90,
+        "fields": {
+            "date": "2022-08-08",
+            "quantity": "4",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 91,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "17",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 92,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 93,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 94,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 95,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "11",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 96,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 97,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "14",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 98,
+        "fields": {
+            "date": "2022-08-09",
+            "quantity": "10",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 99,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "15",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 100,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "9",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 101,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "12",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 102,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "3",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 103,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "11",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 104,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "11",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 105,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "8",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 106,
+        "fields": {
+            "date": "2022-08-10",
+            "quantity": "10",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 107,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "15",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 108,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "13",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 109,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "17",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 110,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 111,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "16",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 112,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "8",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 113,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "9",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 114,
+        "fields": {
+            "date": "2022-08-11",
+            "quantity": "13",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 115,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "10",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 116,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "12",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 117,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "15",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 118,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 119,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "12",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 120,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "8",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 121,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "14",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 122,
+        "fields": {
+            "date": "2022-08-12",
+            "quantity": "9",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 123,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "6",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 124,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "8",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 125,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "5",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 126,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "6",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 127,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "7",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 128,
+        "fields": {
+            "date": "2022-08-16",
+            "quantity": "4",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 129,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "16",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 130,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "11",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 131,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "14",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 132,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "10",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 133,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "11",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 134,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "14",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 135,
+        "fields": {
+            "date": "2022-08-17",
+            "quantity": "4",
+            "technical_team_id": 12
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 136,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "11",
+            "technical_team_id": 1
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 137,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "6",
+            "technical_team_id": 3
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 138,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "11",
+            "technical_team_id": 4
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 139,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "1",
+            "technical_team_id": 20
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 140,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "14",
+            "technical_team_id": 7
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 141,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "12",
+            "technical_team_id": 8
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 142,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "9",
+            "technical_team_id": 11
+        }
+    },
+    {
+        "model": "metrics.CompletedWorkConnectionModel",
+        "pk": 143,
+        "fields": {
+            "date": "2022-08-18",
+            "quantity": "7",
+            "technical_team_id": 12
+        }
+    }
+]

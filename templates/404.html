@@ -1,0 +1,24 @@
+{% extends 'error_base.html' %}
+{% load static %}
+{% block title %} Opps! Internal Server Error! {% endblock %}
+{% block links %}  <link href="{% static 'core/css/error_404.css' %}" rel="stylesheet" /> {% endblock %}
+{% block content %}
+<div class="page-404">
+    <div class="outer">
+        <div class="middle">
+            <div class="inner">
+                <!--BEGIN CONTENT-->
+                <div class="inner-circle"><i class="fa fa-home"></i><span>404</span></div>
+                <span class="inner-status">Oops! You're lost</span>
+                <span class="inner-detail">
+                    We can not find the page you're looking for.<br>
+                    <a href="/" class="btn btn-info mtl"><i class="fa fa-home"></i>&nbsp;
+                        Return home
+                    </a> 
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block scripts %}{% endblock %}

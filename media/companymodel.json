@@ -1,0 +1,52 @@
+[
+    {
+        "model": "metrics.CompanyModel",
+        "pk": 1,
+        "fields": {
+            "company_name": "UNSET",
+            "boss_name": "UNSET",
+            "work_phone": "UNSET",
+            "is_in_service": true
+        }
+    },
+    {
+        "model": "metrics.CompanyModel",
+        "pk": 2,
+        "fields": {
+            "company_name": "Cpetel",
+            "boss_name": "Guillermo Ronco",
+            "work_phone": "15667748",
+            "is_in_service": true
+        }
+    },
+    {
+        "model": "metrics.CompanyModel",
+        "pk": 3,
+        "fields": {
+            "company_name": "Plantel Exterior",
+            "boss_name": "German Leventan",
+            "work_phone": "15740320",
+            "is_in_service": true
+        }
+    },
+    {
+        "model": "metrics.CompanyModel",
+        "pk": 4,
+        "fields": {
+            "company_name": "Zamora",
+            "boss_name": "Pablo Zamora",
+            "work_phone": "15619410",
+            "is_in_service": true
+        }
+    },
+    {
+        "model": "metrics.CompanyModel",
+        "pk": 5,
+        "fields": {
+            "company_name": "Redes AR",
+            "boss_name": "Sarandon",
+            "work_phone": "15329576",
+            "is_in_service": true
+        }
+    }
+]

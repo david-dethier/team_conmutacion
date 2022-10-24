@@ -1,0 +1,32 @@
+[
+    {
+        "model": "gis.CiudadModel",
+        "pk": 1,
+        "fields": {
+            "nombre": "Santa Rosa",
+            "provincia": "La Pampa",
+            "cp": 6300,
+            "cpa": null
+        }
+    },
+    {
+        "model": "gis.CiudadModel",
+        "pk": 2,
+        "fields": {
+            "nombre": "Toay",
+            "provincia": "La Pampa",
+            "cp": 6303,
+            "cpa": null
+        }
+    },
+    {
+        "model": "gis.CiudadModel",
+        "pk": 3,
+        "fields": {
+            "nombre": "Catrilo",
+            "provincia": "La Pampa",
+            "cp": 6330,
+            "cpa": null
+        }
+    }
+]

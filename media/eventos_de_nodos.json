@@ -1,0 +1,562 @@
+[
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6197",
+            "nodo": "Nodo 11-1",
+            "inicio": "2022-08-21 07:54:39+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-21 07:55:26+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6196",
+            "nodo": "Nodo 44",
+            "inicio": "2022-08-21 05:47:18+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-21 05:48:21+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "5",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6195",
+            "nodo": "Nodo 36-2",
+            "inicio": "2022-08-20 19:37:53+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 19:38:29+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "12",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6193",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-20 10:31:21+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 10:37:09+00:00",
+            "duracion": " 5 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6192",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-20 10:15:56+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 10:38:12+00:00",
+            "duracion": " 22 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6191",
+            "nodo": "Nodo 39",
+            "inicio": "2022-08-20 09:24:58+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 09:25:35+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "8",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6190",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-20 02:07:55+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 02:10:36+00:00",
+            "duracion": " 2 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6189",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-20 00:26:37+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 00:35:04+00:00",
+            "duracion": " 8 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6188",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 23:45:57+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-20 00:08:51+00:00",
+            "duracion": " 22 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6187",
+            "nodo": "Nodo 45",
+            "inicio": "2022-08-19 21:42:26+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 21:43:25+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "7",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6186",
+            "nodo": "Nodo 10-1",
+            "inicio": "2022-08-19 19:44:27+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 19:50:51+00:00",
+            "duracion": " 6 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "72",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6185",
+            "nodo": "Nodo 10-1",
+            "inicio": "2022-08-19 19:30:36+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 19:32:17+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "50",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6184",
+            "nodo": "Nodo 5B",
+            "inicio": "2022-08-19 16:54:33+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 16:55:46+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6183",
+            "nodo": "Nodo NPI",
+            "inicio": "2022-08-19 15:43:47+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 15:45:59+00:00",
+            "duracion": " 2 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "31",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6181",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:52:06+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:53:44+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "17",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6180",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:41:45+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:43:17+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "8",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6179",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:34:54+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:37:21+00:00",
+            "duracion": " 2 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "123",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6178",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:28:57+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:33:10+00:00",
+            "duracion": " 4 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6177",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:27:16+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:29:10+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "15",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6176",
+            "nodo": "Nodo 59",
+            "inicio": "2022-08-19 14:22:46+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 14:27:00+00:00",
+            "duracion": " 4 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "427",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6175",
+            "nodo": "Nodo NPI",
+            "inicio": "2022-08-19 14:14:52+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 15:42:16+00:00",
+            "duracion": "1hs  27 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "37",
+            "equipos_caidos": "1",
+            "porcentaje_online": "97.30"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6174",
+            "nodo": "Nodo 20-2",
+            "inicio": "2022-08-19 12:32:47+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 12:52:55+00:00",
+            "duracion": " 20 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6173",
+            "nodo": "Nodo 39",
+            "inicio": "2022-08-19 09:10:45+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-19 09:11:33+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6172",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-18 20:57:43+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:59:09+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "7",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6171",
+            "nodo": "Nodo 27",
+            "inicio": "2022-08-18 20:57:33+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:59:15+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6170",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-18 20:56:31+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:57:41+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "5",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6169",
+            "nodo": "Nodo 17-1",
+            "inicio": "2022-08-18 20:49:30+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:50:23+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6168",
+            "nodo": "Nodo 17-1",
+            "inicio": "2022-08-18 20:43:13+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:56:06+00:00",
+            "duracion": " 12 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "90",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6167",
+            "nodo": "Nodo 17-2",
+            "inicio": "2022-08-18 20:43:11+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:56:20+00:00",
+            "duracion": " 13 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "457",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6166",
+            "nodo": "Nodo 27",
+            "inicio": "2022-08-18 20:43:09+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 20:56:26+00:00",
+            "duracion": " 13 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "358",
+            "equipos_caidos": "2",
+            "porcentaje_online": "99.44"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6165",
+            "nodo": "Nodo 61",
+            "inicio": "2022-08-18 12:57:14+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 12:59:16+00:00",
+            "duracion": " 2 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6164",
+            "nodo": "Nodo 61",
+            "inicio": "2022-08-18 12:45:39+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 12:55:03+00:00",
+            "duracion": " 9 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6163",
+            "nodo": "Nodo 61",
+            "inicio": "2022-08-18 12:24:08+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 12:24:45+00:00",
+            "duracion": " 0 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6162",
+            "nodo": "Nodo 61",
+            "inicio": "2022-08-18 12:13:26+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 12:15:09+00:00",
+            "duracion": " 1 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    },
+    {
+        "model": "metrics.EventoDeNodoModel",
+        "fields": {
+            "eventid": "6161",
+            "nodo": "Nodo 61",
+            "inicio": "2022-08-18 12:09:07+00:00",
+            "antiguedad": " ",
+            "fin": "2022-08-18 12:12:08+00:00",
+            "duracion": " 3 min ",
+            "tipo": "CAIDA",
+            "estado": "FIN",
+            "equipos_afectados": "6",
+            "equipos_caidos": "0",
+            "porcentaje_online": "100.00"
+        }
+    }
+]

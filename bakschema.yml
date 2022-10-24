@@ -1,0 +1,87 @@
+openapi: 3.0.3
+info:
+  title: Models API
+  version: 1.0.0
+  description: A Conmutation Team System
+paths:
+  /api/v1/metrics/conexiones/completedworks/:
+    get:
+      operationId: api_v1_metrics_conexiones_completedworks_list
+      parameters:
+      - in: query
+        name: date
+        schema:
+          type: string
+          format: date
+      - in: query
+        name: technical_team
+        schema:
+          type: integer
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CompletedWorkConnection'
+          description: ''
+  /api/v1/metrics/conexiones/completedworks/{id}/:
+    get:
+      operationId: api_v1_metrics_conexiones_completedworks_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: integer
+        description: A unique integer value identifying this completed work connection
+          model.
+        required: true
+      tags:
+      - api
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CompletedWorkConnection'
+          description: ''
+components:
+  schemas:
+    CompletedWorkConnection:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        date:
+          type: string
+          format: date
+        quantity:
+          type: integer
+          title: Cantidad de trabajos realizados
+        technical_team:
+          type: integer
+      required:
+      - date
+      - id
+      - quantity
+      - technical_team
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+    cookieAuth:
+      type: apiKey
+      in: cookie
+      name: sessionid

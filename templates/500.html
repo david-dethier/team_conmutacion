@@ -1,0 +1,22 @@
+{% extends 'error_base.html' %}
+{% load static %}
+{% block title %} Opps! Internal Server Error! {% endblock %}
+{% block links %} <link href="{% static 'core/css/error_500.css' %}" rel="stylesheet" /> {% endblock %}
+{% block content %}
+<div class="page-500">
+    <div class="outer">
+        <div class="middle">
+            <div class="inner">
+                <!--BEGIN CONTENT-->
+                <div class="inner-circle"><i class="fa fa-cogs"></i><span>500</span></div>
+                <span class="inner-status">Opps! Internal Server Error!</span>
+                <span class="inner-detail">Unfortunately we're having trouble loading the page you are looking for. Please come back in a while.</span>
+                <!--END CONTENT-->
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block scripts %}{% endblock %}
+
+
